@@ -1,49 +1,49 @@
 const product = [
     {
         id: 1,
-        image: './image/aa-1.jpg',
+        image: 'p1.jpg',
         title: 'Headphones',
         price: 20
     },
     {
         id: 2,
-        image: './image/appleWatch.jpg',
+        image: 'p2.jpg',
         title: 'Apple Watch',
         price: 45
     },
     {
         id: 3,
-        image: './image/p1.jpg',
+        image: 'p3.jpg',
         title: 'Navy Blue Shirt',
         price: 10,
     },
     {
         id: 4,
-        image: 'image/dd-1.jpg',
+        image: 'p4.jpg',
         title: 'HP Laptop Next Generation',
         price: 40,
     },
     {
         id: 5,
-        image: './image/ee-1.jpg',
+        image: 'p5.jpg',
         title: '250D DSLR Camera',
         price: 65,
     },
     {
         id: 6,
-        image: 'image/p5.png',
+        image: 'p6.png',
         title: 'Nike Blue Shoe',
         price: 15,
     },
     {
         id: 7,
-        image: './image/gg-1.jpg',
+        image: 'p7.jpg',
         title: 'Z Flip Foldable Mobile',
         price: 55,
     },
     {
         id: 8,
-        image: './image/hh-1.jpg',
+        image: 'p8.jpg',
         title: 'Ari Pods Pro',
         price: 50,
     },
