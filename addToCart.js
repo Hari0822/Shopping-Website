@@ -1,19 +1,19 @@
 const product = [
     {
         id: 1,
-        image: 'image/aa-1.jpg',
+        image: './image/aa-1.jpg',
         title: 'Headphones',
         price: 20
     },
     {
         id: 2,
-        image: 'image/appleWatch.jpg',
+        image: './image/appleWatch.jpg',
         title: 'Apple Watch',
         price: 45
     },
     {
         id: 3,
-        image: 'image/p1.jpg',
+        image: './image/p1.jpg',
         title: 'Navy Blue Shirt',
         price: 10,
     },
@@ -25,7 +25,7 @@ const product = [
     },
     {
         id: 5,
-        image: 'image/ee-1.jpg',
+        image: './image/ee-1.jpg',
         title: '250D DSLR Camera',
         price: 65,
     },
@@ -37,13 +37,13 @@ const product = [
     },
     {
         id: 7,
-        image: 'image/gg-1.jpg',
+        image: './image/gg-1.jpg',
         title: 'Z Flip Foldable Mobile',
         price: 55,
     },
     {
         id: 8,
-        image: 'image/hh-1.jpg',
+        image: './image/hh-1.jpg',
         title: 'Ari Pods Pro',
         price: 50,
     },
